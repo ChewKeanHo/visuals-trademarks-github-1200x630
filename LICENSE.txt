@@ -1,3 +1,7 @@
+Copyright 2026 (Holloway) Chew, Kean Ho <hello@chewkeanho.com>
+Copyright 2008 Github, Inc. (https://support.github.com)
+
+
 Attribution-NoDerivatives 4.0 International
 
 =======================================================================
